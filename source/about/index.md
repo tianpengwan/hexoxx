@@ -1,6 +1,7 @@
 ---
+date: '2024-07-12T15:41:40+08:00'
 title: about
-date: 2024-07-12 15:41:40
+updated: '2024-07-13T08:06:39.053+08:00'
 ---
 # 网页自我介绍
 
@@ -21,7 +22,8 @@ date: 2024-07-12 15:41:40
 ### **联系方式**
 
 * 邮箱：184637599@qq.com
-* bilibili地址：[https://space.bilibili.com/440611061/](https://space.bilibili.com/440611061/)
+* bilibili地址：[宇外御风](https://space.bilibili.com/440611061/)
+* 图床：[Telegraph-Image](https://tc.20010501.xyz/)
 
 ---
 
