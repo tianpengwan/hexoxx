@@ -995,7 +995,7 @@ page404:
 # 友链页
 # Links Page
 #---------------------------
-links:
+# links:
   enable: true
   banner_img: /img/default.png
   banner_img_height: 60
