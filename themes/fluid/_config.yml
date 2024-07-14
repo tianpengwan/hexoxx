@@ -345,8 +345,8 @@ navbar:
     - { key: "archive", link: "/archives/", icon: "iconfont icon-archive-fill" }
     - { key: "category", link: "/categories/", icon: "iconfont icon-category-fill" }
     - { key: "tag", link: "/tags/", icon: "iconfont icon-tags-fill" }
-    - { key: "说说", link: "/links/", icon: "iconfont icon-pen" }
-    - { key: "友链", link: "/talks/", icon: "iconfont icon-addrbook" }
+    - { key: "说说", link: "/talks/", icon: "iconfont icon-pen" }
+    - { key: "友链", link: "/links/", icon: "iconfont icon-addrbook" }
     - { key: "about", link: "/about/", icon: "iconfont icon-user-fill" }
     #- { key: "links", link: "/links/", icon: "iconfont icon-link-fill" }
 
