@@ -347,6 +347,7 @@ navbar:
     - { key: "tag", link: "/tags/", icon: "iconfont icon-tags-fill" }
     - { key: "说说", link: "/talks/", icon: "iconfont icon-pen" }
     - { key: "友链", link: "/yll/", icon: "iconfont icon-link-fill" }
+    - { key: "追番", link: "/bangumis/", icon: "iconfont icon-bilibili" }
     - { key: "about", link: "/about/", icon: "iconfont icon-user-fill" }
     #- { key: "links", link: "/links/", icon: "iconfont icon-link-fill" }
 

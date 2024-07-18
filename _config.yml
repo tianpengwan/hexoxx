@@ -102,3 +102,12 @@ theme: fluid
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+
+bangumi:
+  enable: true 
+  vmid: 440611061
+  title: '追番列表'
+  quote: '生命不息，追番不止！'
+  show: 1
+  loading: '/img/bangumi-loading.gif'
