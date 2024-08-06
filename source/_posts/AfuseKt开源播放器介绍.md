@@ -36,7 +36,7 @@ AfuseKt是一款功能丰富的安卓端在线视频播放器，为用户提供�
 
 综合来看，AfuseKt是一款功能强大、使用便捷的安卓端在线视频播放器，适合广大视频爱好者和家庭用户使用。
 
-下载地址：**https://](https://fxdl.20010501.xyz/https://github.com/AttemptD/AfuseKt-release/releases/download/AfuseKt-1.3.4-10082/AfuseKt-arm64-1.3.4-10082.apk**
+下载地址：**https://fxdl.20010501.xyz/https://github.com/AttemptD/AfuseKt-release/releases/download/AfuseKt-1.3.4-10082/AfuseKt-arm64-1.3.4-10082.apk**
 
 软件截图：
 
