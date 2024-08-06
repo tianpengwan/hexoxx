@@ -13,7 +13,7 @@ tags:
 - Emby
 - Jellyfin
 title: AfuseKt开源播放器介绍
-updated: '2024-08-06T16:55:44.614+08:00'
+updated: '2024-08-06T17:01:45.785+08:00'
 ---
 AfuseKt是一款功能丰富的安卓端在线视频播放器，为用户提供了便捷的视频观看和管理体验。以下是对AfuseKt的详细介绍：
 
@@ -36,7 +36,8 @@ AfuseKt是一款功能丰富的安卓端在线视频播放器，为用户提供�
 
 综合来看，AfuseKt是一款功能强大、使用便捷的安卓端在线视频播放器，适合广大视频爱好者和家庭用户使用。
 
-下载地址：[点击一键下载](https://fxdl.20010501.xyz/https%3A%2F%2Fobjects.githubusercontent.com%2Fgithub-production-release-asset-2e65be%2F766957616%2F57f32333-b633-43aa-a429-3b2b1127f9e4%3FX-Amz-Algorithm%3DAWS4-HMAC-SHA256%26X-Amz-Credential%3Dreleaseassetproduction%252F20240806%252Fus-east-1%252Fs3%252Faws4_request%26X-Amz-Date%3D20240806T085459Z%26X-Amz-Expires%3D300%26X-Amz-Signature%3D07d6be11aa93363ebc43710d1066db7515401d708cda32c6fb24d7c9eee4e787%26X-Amz-SignedHeaders%3Dhost%26actor_id%3D0%26key_id%3D0%26repo_id%3D766957616%26response-content-disposition%3Dattachment%253B%2520filename%253DAfuseKt-arm64-1.3.4-10082.apk%26response-content-type%3Dapplication%252Fvnd.android.package-archive)
+下载地址：[点击一键下载]([https://](https://fxdl.20010501.xyz/https://github.com/AttemptD/AfuseKt-release/releases/download/AfuseKt-1.3.4-10082/AfuseKt-arm64-1.3.4-10082.apk))
+
 
 软件截图：
 
