@@ -3,14 +3,14 @@ abbrlink: ''
 categories:
 - - 技术教程
 date: '2024-08-09T11:22:31.723483+08:00'
-index_img: https://fxdl.20010501.xyz/https://raw.githubusercontent.com/tianpengwan/hexoxxtc/master/Qexo/24/8/OIP-C (1)_7f66845f09cc8a86ba80f4084b9071b3.jfif
+index_img: https://fxdl.20010501.xyz/https://raw.githubusercontent.com/tianpengwan/hexoxxtc/master/Qexo/24/8/OIP-C%20(1)_7f66845f09cc8a86ba80f4084b9071b3.jfif
 tags:
 - Serv00
 - 小雅Alist
 - GitHub
 - FreeBSD
 title: Serv00搭建小雅Alist
-updated: '2024-08-09T11:26:43.268+08:00'
+updated: '2024-08-09T11:46:17.366+08:00'
 ---
 在Serv00搭建小雅Alist的步骤可能会有些复杂，但我会尽量清晰地为您说明。请注意，由于Serv00的环境和配置可能随时间变化，以下步骤仅供参考，具体操作时请以Serv00的最新文档和指南为准。
 
