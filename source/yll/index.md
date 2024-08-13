@@ -19,7 +19,7 @@ comment: 'waline'
     <h2>站点名称：宇外御风的hexo博客</h2>
     <p>站点简介：分享免费有趣的知识</p>
     <p><strong>站点地址：</strong><a href="https://hexo.20010501.xyz/">https://hexo.20010501.xyz/</a></p>
-    <p><strong>站点Logo：</strong><a href="https://hexo.20010501.xyz/img/fluid.png" target="_blank"><img src="https://hexo.20010501.xyz/img/fluid.png" alt="站点Logo" style="max-width: 100%; height: auto;"></a></p>
+    <p><strong>站点Logo：</strong><a href="https://hexo.20010501.xyz/img/fluid.png">https://hexo.20010501.xyz/img/fluid.png</a></p> src="https://hexo.20010501.xyz/img/fluid.png" alt="站点Logo" style="max-width: 100%; height: auto;"></a></p>
     <p><strong>我的站点友链接地址：</strong><a href="https://hexo.20010501.xyz/yll">https://hexo.20010501.xyz/yll</a></p>
 </div>
 
