@@ -14,6 +14,6 @@ updated: '2024-07-14T18:51:33.351+08:00'
 
 <link rel="stylesheet" href="https://unpkg.com/qexo-friends/friends.css"/>
 
-<div id="friends-api"></div>
-<script src="https://unpkg.com/qexo-friends/friends-api.js"></script>
-<script>qexo_friend_api("friends-api","https://hexoadmin.20010501.xyz","人机验证秘钥，没有的不填");</script>
+<link rel="stylesheet" href="https://fxdl.20010501.xyz/https://cdn.jsdelivr.net/npm/qexo-static@1.0.7/hexo/friends/friends.css"/>
+<script src="https://fxdl.20010501.xyz/https://cdn.jsdelivr.net/gh/Fgaoxing/blog-cdn@main/source/js/Qexo-friends/Yun.js"></script>
+<script>loadQexoFriends("links", "https://hexoadmin.20010501.xyz", "主题色")</script>
