@@ -15,13 +15,11 @@ comment: 'waline'
 
 <link rel="stylesheet" href="https://unpkg.com/qexo-friends/friends.css"/>
 
-<div style="text-align: center;">
-    <h2>站点名称：宇外御风的hexo博客</h2>
-    <p>站点简介：分享免费有趣的知识</p>
-    <p><strong>站点地址：</strong><a href="https://hexo.20010501.xyz/">https://hexo.20010501.xyz/</a></p>
-    <p><strong>站点Logo：</strong><a href="https://hexo.20010501.xyz/img/fluid.png">https://hexo.20010501.xyz/img/fluid.png</a></p>
-    <p><strong>我的站点友链接地址：</strong><a href="https://hexo.20010501.xyz/yll">https://hexo.20010501.xyz/yll</a></p>
-</div>
+站点名称：宇外御风的hexo博客
+站点简介：分享免费有趣的知识
+站点地址：https://hexo.20010501.xyz/
+站点Logo：https://hexo.20010501.xyz/img/fluid.png
+我的站点友链接地址：https://hexo.20010501.xyz/yll/
 
 <div id="friends-api"></div>
 <script src="https://unpkg.com/qexo-friends/friends-api.js"></script>
