@@ -1,7 +1,7 @@
 ---
 abbrlink: ''
 categories:
-- - 技术教程
+- - 软件推荐
 date: '2024-08-06T16:46:18.230098+08:00'
 index_img: https://fxdl.20010501.xyz/https://raw.githubusercontent.com/tianpengwan/hexoxxtc/master/Qexo/24/8/324371839-a4064a6b-6dd8-4ead-be83-3820845a81e4_8c0b56a594071755f5d0fb1738bd2ec7.jpg
 tags:
@@ -13,7 +13,7 @@ tags:
 - Emby
 - Jellyfin
 title: AfuseKt开源播放器介绍
-updated: '2024-08-06T17:04:29.547+08:00'
+updated: '2024-08-15T14:18:02.051+08:00'
 ---
 AfuseKt是一款功能丰富的安卓端在线视频播放器，为用户提供了便捷的视频观看和管理体验。以下是对AfuseKt的详细介绍：
 
