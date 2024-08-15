@@ -1,7 +1,7 @@
 ---
 abbrlink: ''
 categories:
-- - 技术教程
+- - 软件推荐
 date: '2024-08-06T14:17:56.194270+08:00'
 index_img: https://fxdl.20010501.xyz/https://raw.githubusercontent.com/tianpengwan/hexoxxtc/master/Qexo/24/8/1000022784_0ab47fdb1c29d73607b029a5fcfbb1b1.png
 tags:
@@ -11,7 +11,7 @@ tags:
 - 115网盘
 - webdav
 title: Filmly播放器介绍
-updated: '2024-08-06T16:59:12.859+08:00'
+updated: '2024-08-15T14:14:38.378+08:00'
 ---
 Filmly是网易推出的一款智能媒体库和全能播放器软件，旨在帮助用户轻松管理和享受网盘中的视频资源。以下是对Filmly的详细介绍：
 
