@@ -3,13 +3,13 @@ abbrlink: ''
 categories:
 - - 技术教程
 date: '2024-08-06T12:40:01.943228+08:00'
-index_img: https://fxdl.20010501.xyz/https://raw.githubusercontent.com/tianpengwan/hexoxxtc/master/Qexo/24/8/1000022782_636c597cf780a10a2d936ce4822371f8.jpg
+index_img: https://ghtpdl.20010501.xyz/Qexo/24/8/1000022782_636c597cf780a10a2d936ce4822371f8.jpg
 tags:
 - SD
 - AI绘画
 - Stable Diffusion
 title: 如何使用电脑上的SD（Stable Diffusion）软件
-updated: '2024-08-15T14:01:54.032+08:00'
+updated: '2024-08-16T15:55:01.671+08:00'
 ---
 使用电脑上的SD（Stable Diffusion）软件，一种流行的AI绘画工具，主要涉及到软件的安装与配置，以及后续的使用操作。以下是一个详细的步骤指南：
 
