@@ -1,15 +1,15 @@
 ---
 abbrlink: ''
-banner_img: https://fxdl.20010501.xyz/https://raw.githubusercontent.com/tianpengwan/hexoxxtc/master/Qexo/24/8/1000022876_2eb5af6a7ee0d33d58e167a4e09a7f80.jpg
+banner_img: https://ghtpdl.20010501.xyz/Qexo/24/8/1000022876_2eb5af6a7ee0d33d58e167a4e09a7f80.jpg
 categories:
 - - 技术教程
 date: '2024-08-12T21:03:02.455084+08:00'
-index_img: https://fxdl.20010501.xyz/https://raw.githubusercontent.com/tianpengwan/hexoxxtc/master/Qexo/24/8/1000022876_2eb5af6a7ee0d33d58e167a4e09a7f80.jpg
+index_img: https://ghtpdl.20010501.xyz/Qexo/24/8/1000022876_2eb5af6a7ee0d33d58e167a4e09a7f80.jpg
 tags:
 - hexo
 - 插件
 title: Hexo博客的插件推荐
-updated: '2024-08-13T01:11:27.851+08:00'
+updated: '2024-08-16T15:52:32.047+08:00'
 ---
 对于Hexo博客的插件推荐，以下是一些值得考虑的选择，这些插件可以帮助您优化博客功能、提升用户体验以及增强SEO效果。
 
