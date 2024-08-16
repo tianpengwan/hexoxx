@@ -3,12 +3,12 @@ abbrlink: ''
 categories:
 - - 技术教程
 date: '2024-08-12T17:08:04.202849+08:00'
-index_img: https://fxdl.20010501.xyz/https://raw.githubusercontent.com/tianpengwan/hexoxxtc/master/Qexo/24/8/u=1347888029,3956638534&fm=253&fmt=auto&app=138&f=JPEG_35caba261c8abba22d22e080456ad035.jpeg
+index_img: https://ghtpdl.20010501.xyz/Qexo/24/8/u=1347888029,3956638534&fm=253&fmt=auto&app=138&f=JPEG_35caba261c8abba22d22e080456ad035.jpeg
 tags:
 - hexo
 - 博客
 title: hexo博客目录结构
-updated: '2024-08-15T14:16:54.695+08:00'
+updated: '2024-08-16T15:53:51.570+08:00'
 ---
 Hexo博客框架的文件目录系统是一个精心设计的结构，旨在帮助用户高效管理其博客内容。以下是关于Hexo博客框架文件目录系统的详细介绍：
 
