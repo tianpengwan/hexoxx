@@ -3,14 +3,14 @@ abbrlink: ''
 categories:
 - - 技术教程
 date: '2024-08-15T11:18:56.854058+08:00'
-index_img: https://fxdl.20010501.xyz/https://raw.githubusercontent.com/tianpengwan/hexoxxtc/master/Qexo/24/8/微信图片_20240815111841_2a7780438d1827f6e75de0c0c68e1662.jpg
+index_img: https://ghtpdl.20010501.xyz/Qexo/24/8/http3quic_2a7780438d1827f6e75de0c0c68e1662.jpg
 tags:
 - HTTP/3
 - QUIC
 - Cloudflare
 - 网站优化
 title: 使用Cloudflare对HTTP/3及QUIC协议解决运营商网络封锁
-updated: '2024-08-15T11:19:01.834+08:00'
+updated: '2024-08-16T15:50:22.174+08:00'
 ---
 起因是我发现流量使用via浏览器打不开我的网站而Chrome却能够打开，查阅资料之后发现是开启了Cloudflare HTTP/3及QUIC协议，来看看原理及如何打开吧!
 
