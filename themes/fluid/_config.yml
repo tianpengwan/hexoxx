@@ -423,8 +423,7 @@ open_graph:
 footer:
   # 页脚第一行文字的 HTML，建议保留 Fluid 的链接，用于向更多人推广本主题
   # HTML of the first line of the footer, it is recommended to keep the Fluid link to promote this theme to more people
-  content: '
-  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=e6bcbc&w=150&t=t&d=nVo87ct0X3rM8a4It1jKUe3lQlvDZtfUrsMoIcDSdDQ&ct=f1e86b'></script>
+  content: '<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=e6bcbc&w=150&t=t&d=nVo87ct0X3rM8a4It1jKUe3lQlvDZtfUrsMoIcDSdDQ&ct=f1e86b'></script>
     <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a>
     <i class="iconfont icon-love"></i>
     <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>Fluid</span></a>
