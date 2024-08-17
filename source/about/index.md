@@ -24,7 +24,6 @@ updated: '2024-07-13T08:06:39.053+08:00'
 
 * 邮箱：184637599@qq.com
 * bilibili地址：[宇外御风](https://space.bilibili.com/440611061/)
-* 图床：[Telegraph-Image](https://tc.20010501.xyz/)
 
 ---
 
