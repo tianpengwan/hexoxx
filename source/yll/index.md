@@ -11,7 +11,7 @@ comment: 'waline'
 </head>
 <body>
   <!-- ... -->
-  <div id="qexo-friend-link"></div>
+  <div id="qexo-friends"></div>
   <script>
     loadQexoFriends({
         id: "qexo-friends",
