@@ -1,5 +1,5 @@
 ---
-title: video 
+title: vlog
 type: "video" 
 layout: "video" 
 ---
