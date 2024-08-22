@@ -11,11 +11,16 @@ comment: 'waline'
 </head>
 <body>
   <!-- ... -->
-  <div id="qexo-friends"></div>
+  <div id="qexo-friend-link"></div>
   <script>
     loadQexoFriends({
         id: "qexo-friends",
         url: "https://hexoadmin.20010501.xyz/",
+        screenSite: "https://s0.wp.com/mshots/v1/",
+        randomFalg: "false",
+        column: "3",
+        rowHeight: "150px",
+        nameColor: "#white",
     })
   </script>
 </body>
