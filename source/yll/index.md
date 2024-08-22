@@ -11,10 +11,10 @@ comment: 'waline'
 </head>
 <body>
   <!-- ... -->
-  <div id="friends-api"></div>
+  <div id="qexo-friends"></div>
   <script>
     loadQexoFriends({
-        id: "friends-api",
+        id: "qexo-friends",
         url: "https://hexoadmin.20010501.xyz/",
     })
   </script>
