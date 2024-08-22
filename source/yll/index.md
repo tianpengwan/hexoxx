@@ -22,7 +22,7 @@ comment: 'waline'
 </head>
 <body>
   <!-- ... -->
-  <div id="qexo-yll"></div>
+  <div id="qexo-friends"></div>
   <script>
     loadQexoFriends({
         id: "qexo-yll",
