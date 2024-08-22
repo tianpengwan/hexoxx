@@ -1,9 +1,4 @@
 ---
-date: '2024-07-14T18:51:29.824805+08:00'
-title: 友链
-updated: '2024-07-14T18:51:33.351+08:00'
-comment: 'waline'
----
 <head>
   <!-- ... -->
   <script src="//cdn.jsdelivr.net/gh/Uyoahz26/qexo-link@main/main.min.js"></script>
@@ -11,11 +6,11 @@ comment: 'waline'
 </head>
 <body>
   <!-- ... -->
-  <div id=qexo-friends"></div>
+  <div id="qexo-friend-link"></div>
   <script>
     loadQexoFriends({
-        id: qexo-friends",
-        url: ""https://hexoadmin.20010501.xyz/",
+        id: "qexo-friend-link",
+        url: "https://hexoadmin.20010501.xyz/",
     })
   </script>
 </body>
