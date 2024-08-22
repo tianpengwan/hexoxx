@@ -15,6 +15,22 @@ comment: 'waline'
 
 <link rel="stylesheet" href="https://unpkg.com/qexo-friends/friends.css"/>
 
+<head>
+  <!-- ... -->
+  <script src="//cdn.jsdelivr.net/gh/Uyoahz26/qexo-link@main/main.min.js"></script>
+  <!-- ... -->
+</head>
+<body>
+  <!-- ... -->
+  <div id="qexo-friend"></div>
+  <script>
+    loadQexoFriends({
+        id: "qexo-friend",
+        url: "https://asmin.20010501.xyz/",
+    })
+  </script>
+</body>
+
 站点名称：宇外御风的hexo博客
 站点简介：分享免费有趣的知识
 站点地址：https://20010501.xyz/
