@@ -6,7 +6,7 @@ comment: 'waline'
 ---
 <head>
   <!-- ... -->
-  <script src="https://fxdl.20010501.xyz/https://cdn.jsdelivr.net/gh/Uyoahz26/qexo-link@main/main.min.js"></script>
+  <script src="//cdn.jsdelivr.net/gh/Uyoahz26/qexo-link@main/main.min.js"></script>
   <!-- ... -->
 </head>
 <body>
@@ -16,15 +16,9 @@ comment: 'waline'
     loadQexoFriends({
         id: "qexo-friends",
         url: "https://hexoadmin.20010501.xyz/",
-        screenSite: "https://s0.wp.com/mshots/v1/",
-        randomFalg: "false",
-        column: "3",
-        rowHeight: "150px",
-        nameColor: "#white",
     })
   </script>
 </body>
-
 站点名称：宇外御风的hexo博客
 站点简介：分享免费有趣的知识
 站点地址：https://20010501.xyz/
