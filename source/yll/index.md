@@ -17,7 +17,7 @@ comment: 'waline'
 
 <head>
   <!-- ... -->
-  <script src="//cdn.jsdelivr.net/gh/Uyoahz26/qexo-link@main/main.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/Uyoahz26/qexo-link@main/main.min.js"></script>
   <!-- ... -->
 </head>
 <body>
@@ -26,7 +26,7 @@ comment: 'waline'
   <script>
     loadQexoFriends({
         id: "qexo-friend",
-        url: "https://asmin.20010501.xyz/",
+        url: "https://admin.20010501.xyz/",
     })
   </script>
 </body>
