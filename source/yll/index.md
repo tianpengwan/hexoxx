@@ -6,7 +6,7 @@ comment: 'waline'
 ---
 <head>
   <!-- ... -->
-  <script src="https://cdn.jsdelivr.net/gh/Uyoahz26/qexo-link@main/main.min.js"></script>
+  <script src="https://fxdl.20010501.xyz/https://cdn.jsdelivr.net/gh/Uyoahz26/qexo-link@main/main.min.js"></script>
   <!-- ... -->
 </head>
 <body>
