@@ -4,17 +4,6 @@ title: 友链
 updated: '2024-07-14T18:51:33.351+08:00'		
 comment: 'waline'		
 ---
-<div id="qexo-friends"></div>
-<link rel="stylesheet" href="https://unpkg.com/qexo-friends/friends.css"/>
-<script src="https://cdn.jsdelivr.net/npm/qexo-static@1.6.0/hexo/friends.js"></script>
-<script>loadQexoFriends("qexo-friends", "https://hexoadmin.20010501.xyz")</script>
-
-<link rel="stylesheet" href="https://unpkg.com/qexo-friends/friends.css"/>
-
-<link rel="stylesheet" href="https://unpkg.com/qexo-friends/friends.css"/>
-
-<link rel="stylesheet" href="https://unpkg.com/qexo-friends/friends.css"/>
-
 <head>
   <!-- ... -->
   <script src="//cdn.jsdelivr.net/gh/Uyoahz26/qexo-link@main/main.min.js"></script>
