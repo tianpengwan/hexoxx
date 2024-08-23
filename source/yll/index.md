@@ -17,15 +17,15 @@ comment: 'waline'
 
 <head>
   <!-- ... -->
-  <script src="https://blog-img-1258635493.cos.ap-chengdu.myqcloud.com/cdn/js/links.min.js"></script>
+  <script src="//cdn.jsdelivr.net/gh/Uyoahz26/qexo-link@main/main.min.js"></script>
   <!-- ... -->
 </head>
 <body>
   <!-- ... -->
-  <div id="qexo-links"></div>
+  <div id="qexo-friends-yll"></div>
   <script>
     loadQexoFriends({
-        id: "qexo-links",
+        id: "qexo-friends-yll",
         url: "https://hexoadmin.20010501.xyz/",
     })
   </script>
