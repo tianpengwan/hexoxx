@@ -26,7 +26,7 @@ comment: 'waline'
   <script>
     loadQexoFriends({
         id: "qexo-friends",
-        url: "https://hexoadmin.20010501.xyz/",
+        url: "https://hexoadmin.20010501.xyz",
     })
   </script>
 </body>
