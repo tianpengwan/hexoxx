@@ -17,7 +17,7 @@ comment: 'waline'
 
 <head>
   <!-- ... -->
-  <script src="//cdn.jsdelivr.net/gh/Uyoahz26/qexo-link@main/main.min.js"></script>
+  <script src="https://blog-img-1258635493.cos.ap-chengdu.myqcloud.com/cdn/js/links.min.js"></script>
   <!-- ... -->
 </head>
 <body>
