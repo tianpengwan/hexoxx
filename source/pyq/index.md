@@ -15,14 +15,14 @@ leftend: 使用朋友链接池订阅您朋友的最新文章
         </a>
     </div>
     <div class="title-h2-a-right">
-        <a href="/links/" data-pjax-state="">所有链接</a>
+        <a href="/yll/" data-pjax-state="">所有链接</a>
     </div>
 </div>
 <div id="random-post"></div>
 
 <script>
 var fdata = {
-    apiurl: "http://192.168.31.44:8000/", /* 替换为您的API URL */
+    apiurl: "https://hexoadmin.20010501.xyz/pub/friends/", /* 替换为您的API URL */
     defaultFish: 100,
     hungryFish: 100,
 }
