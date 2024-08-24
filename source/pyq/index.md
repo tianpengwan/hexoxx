@@ -22,7 +22,7 @@ leftend: 使用朋友链接池订阅您朋友的最新文章
 
 <script>
 var fdata = {
-    apiurl: "https://hexoadmin.20010501.xyz/pub/friends/", /* 替换为您的API URL */
+    apiurl: "https://github.com/tianpengwan/Scripts-library/blob/main/friends.json", /* 替换为您的API URL */
     defaultFish: 100,
     hungryFish: 100,
 }
