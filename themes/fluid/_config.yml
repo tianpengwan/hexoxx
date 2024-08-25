@@ -458,10 +458,8 @@ footer:
     <a href="https://http3.wcode.net/?q=20010501.xyz" target="_blank">
     <img src="https://http3.wcode.net/badges/http3.svg?host=20010501.xyz" alt="" style="max-width: 100%; height: 24px;"/>
 </a>
-<div>
-      <span id="timeDate">载入天数...</span>
-      <span id="times">载入时分秒...</span>
-      <script src="/js/duration.js"></script>
+<div id="footer">
+    <p>网站勉强坚持运行: <span id="establishedDate"></span></p>
 </div>
   '
   # 展示网站的 PV、UV 统计数
