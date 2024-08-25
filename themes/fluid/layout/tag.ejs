@@ -10,4 +10,3 @@ var tag = site.tags.find({name: page.tag}).filter(tag => tag.length).data[0]
 %>
 
 <%- partial('_partials/archive-list.ejs', { params: { key: page.layout, postTotal: tag ? tag.posts.length : 0 } }) %>
-<%- partial('_widget/tag-cloud') %>
