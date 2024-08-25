@@ -433,7 +433,6 @@ footer:
     "url": "https://20010501.xyz"
   }
 </script>
-footer:
   content: '
     <div>
       <span id="timeDate">载入天数...</span>
