@@ -459,17 +459,9 @@ footer:
     <img src="https://http3.wcode.net/badges/http3.svg?host=20010501.xyz" alt="" style="max-width: 100%; height: 24px;"/>
 </a>
 <div>
-    <span id="timeDate">0 天</span>
-    <span id="times">00:00:00</span>
-    <script src="/js/duration.js"></script>
-    <script>
-        // 假设 duration.js 中有函数可以更新时间
-        // 这里只是一个示例，具体实现应在 duration.js 中
-        document.addEventListener('DOMContentLoaded', function() {
-            updateTime(); // 假设这是你在 duration.js 中定义的更新时间的函数
-            setInterval(updateTime, 1000); // 每隔1秒更新时间
-        });
-    </script>
+      <span id="timeDate">载入天数...</span>
+      <span id="times">载入时分秒...</span>
+      <script src="/js/duration.js"></script>
 </div>
   '
   # 展示网站的 PV、UV 统计数
