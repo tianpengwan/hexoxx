@@ -460,6 +460,7 @@ footer:
 </a>
 <div id="footer">
     <p>网站勉强坚持运行: <span id="establishedDate"></span></p>
+    <script src="/js/duration.js"></script>
 </div>
   '
   # 展示网站的 PV、UV 统计数
