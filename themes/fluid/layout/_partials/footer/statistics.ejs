@@ -21,14 +21,14 @@
 
   <% } else if (theme.footer.statistics.source === 'busuanzi') { %>
     <% if (pv_texts.length >= 2) { %>
-      <span id="busuanzi_container_site_pv" style="display: none">
+      <span id="busuanzi_container_site_pv_" style="display: true">
         <%- pv_texts[0] %>
         <span id="busuanzi_value_site_pv"></span>
         <%- pv_texts[1] %>
       </span>
     <% } %>
     <% if (uv_texts.length >= 2) { %>
-      <span id="busuanzi_container_site_uv" style="display: none">
+      <span id="busuanzi_container_site_uv_" style="display: true">
         <%- uv_texts[0] %>
         <span id="busuanzi_value_site_uv"></span>
         <%- uv_texts[1] %>
