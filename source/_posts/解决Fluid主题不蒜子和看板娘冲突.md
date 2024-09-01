@@ -1,7 +1,9 @@
 ---
 abbrlink: ''
-categories: []
+categories:
+- - 技术教程
 date: '2024-09-01T23:47:42.063149+08:00'
+index_img: https://ghtpdl.20010501.xyz/tptp/P40902-240843.jpg
 tags:
 - Fluid主题
 - 不蒜子
