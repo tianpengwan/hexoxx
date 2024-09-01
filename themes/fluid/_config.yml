@@ -63,7 +63,7 @@ code:
       # 在链接中挑选 style 填入
       # Select a style in the link
       # See: https://highlightjs.org/static/demo/
-      style: "github gist"
+      style: "github dark dimmed"
       style_dark: "dark"
 
     prismjs:
@@ -244,6 +244,7 @@ custom_js:
 # 指定自定义 .css 文件路径，用法和 custom_js 相同
 # The usage is the same as custom_js
 custom_css:
+  - /css/macpanel
   - //cdn.jsdelivr.net/gh/EmoryHuang/BlogBeautify@1.1/shubiao.css #鼠标指针
 # - //cdn.jsdelivr.net/gh/EmoryHuang/BlogBeautify@1.1/scroll.css # 滚动条颜色
   - //cdn.jsdelivr.net/gh/EmoryHuang/BlogBeautify@1.1/gradient.css # 头部打字机颜色效果渐变
