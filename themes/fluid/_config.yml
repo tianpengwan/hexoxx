@@ -245,7 +245,7 @@ custom_js:
 # The usage is the same as custom_js
 custom_css:
   - //cdn.jsdelivr.net/gh/EmoryHuang/BlogBeautify@1.1/shubiao.css #鼠标指针
-  - //cdn.jsdelivr.net/gh/EmoryHuang/BlogBeautify@1.1/scroll.css # 滚动条颜色
+# - //cdn.jsdelivr.net/gh/EmoryHuang/BlogBeautify@1.1/scroll.css # 滚动条颜色
   - //cdn.jsdelivr.net/gh/EmoryHuang/BlogBeautify@1.1/gradient.css # 头部打字机颜色效果渐变
 # 网页访问统计
 # Analysis of website visitors
