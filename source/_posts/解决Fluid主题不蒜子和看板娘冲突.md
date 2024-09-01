@@ -7,7 +7,7 @@ tags:
 - 不蒜子
 - 看板娘
 title: title解决Fluid主题不蒜子和看板娘冲突
-updated: '2024-09-01T23:54:02.251+08:00'
+updated: '2024-09-02T00:10:52.676+08:00'
 ---
 ## 解决看板娘与不蒜子冲突的小技巧 😊
 
@@ -37,10 +37,14 @@ updated: '2024-09-01T23:54:02.251+08:00'
 
 ```html
 
-<span id="busuanzi_container_site_pv_" style="display: true;"></span>
+<span id="busuanzi_container_site_pv_" style="display: true;">
 
-<span id="busuanzi_container_site_uv_" style="display: true;"></span>
+<span id="busuanzi_container_site_uv_" style="display: true;">
 
 ```
 
 完成以上两步后，应该就能解决看板娘与不蒜子的冲突问题，使网站底部和文章数据正常显示了。希望这对你有所帮助！✨
+
+~o(〃'▽'〃)o我已经修改过了，图片是方便看位置哈
+
+相关链接：https://cloud.tencent.com/developer/article/2067285
