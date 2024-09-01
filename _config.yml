@@ -112,7 +112,7 @@ bangumi:
   show: 1
   loading: '/img/bangumi-loading.gif'
   extra_options:
-  banner_img: https://t.alcy.cc/pc/
+  banner_img: ‘https://t.alcy.cc/pc/’
 
 #Live2D动画
 live2d:
