@@ -7,7 +7,7 @@ date: 2024-09-13 12:53:16
 <script>
     let UserConfig = {
         // 填写你的api地址
-        private_api_url: 'https://raw.githubusercontent.com/tianpengwan/Scripts-library/main/friends.json/',
+        private_api_url: 'https://raw.githubusercontent.com/tianpengwan/Scripts-library/main/friends.json',
         // 点击加载更多时，一次最多加载几篇文章，默认10
         page_turning_number: 12,
         // 头像加载失败时，默认头像地址
