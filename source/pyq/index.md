@@ -35,7 +35,7 @@ var fdata = {
 <div id="hexo-circle-of-friends-root"></div>
 <script>
     let UserConfig = {
-        private_api_url: 'https://hexoadmin.20010501.xyz/pub/friends/', /* 替换为您的API URL */
+        private_api_url: 'https://raw.githubusercontent.com/tianpengwan/Scripts-library/main/friends.json', /* 替换为您的API URL */
         page_turning_number: 12, /* 点击“加载更多”时加载的文章的最大数量，默认为10 */
         error_img: 'https://sdn.geekzu.org/avatar/57d8260dfb55501c37dde588e7c3852c', /* 加载失败时的默认头像URL */
         sort_rule: 'created' /* 首次进入页面的排序规则 */
