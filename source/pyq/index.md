@@ -1,23 +1,13 @@
----
-title: 朋友圈
-date: 2022-10-09 00:38:16
----
-
-<div id="hexo-circle-of-friends-root"></div>
-<script>
-    let UserConfig = {
-        // 填写你的api地址
-        private_api_url: 'http://pyq.20010501.xyz/',
-        // 初始加载几篇文章
-        page_init_number: 20,
-        // 点击加载更多时，一次最多加载几篇文章，默认10
-        page_turning_number: 10,
-        // 头像加载失败时，默认头像地址
-        error_img: 'https://20010501.xyz/img/fluid.png',
-        // 进入页面时第一次的排序规则
-        sort_rule: 'created',
-        // 本地文章缓存数据过期时间（天）
-        expire_days: 1, 
-    }
+<!-- 挂载友链朋友圈的容器 -->
+<div id="cf-container">与主机通讯中……</div>
+<!-- 加样式和功能代码 -->
+<link rel="stylesheet" href="https://fastly.jsdelivr.net/gh/lmm214/immmmm/themes/hello-friend/static/fcircle-beta.css">
+<!-- 匹配自己的友链或加载后端数据
+<script type="text/javascript">
+  var fdataUser = {
+    jsonurl: 'https://cdn.edui.fun/lmm.json',  //【推荐】json 匹配模式
+    //apiurl: 'https://pyq.20010501.xyz/',  //自部署api
+  }
 </script>
-<script type="text/javascript" src="https://npm.elemecdn.com/fcircle-theme-yyyz@1.0.13/dist/fcircle.min.js"></script>
+-->
+<script type="text/javascript" src="https://fastly.jsdelivr.net/gh/lmm214/immmmm/themes/hello-friend/static/fcircle-beta.js"></script>
