@@ -1,17 +1,13 @@
 ---
-title: 友链文章朋友圈
-date: 2024-09-13 18:54:05
-update: 2024-09-13 18:54:05
-comments:
-top_img:
-aside:
+title: 朋友圈
+date: 2022-10-09 00:38:16
 ---
 
 <div id="hexo-circle-of-friends-root"></div>
 <script>
     let UserConfig = {
         // 填写你的api地址
-        private_api_url: 'https://raw.githubusercontent.com/tianpengwan/Scripts-library/main/friends.json/',
+        private_api_url: 'http://pyq.20010501.xyz/all/',
         // 初始加载几篇文章
         page_init_number: 20,
         // 点击加载更多时，一次最多加载几篇文章，默认10
