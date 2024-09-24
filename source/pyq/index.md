@@ -19,7 +19,7 @@ date: 2022-01-29 15:23:17
     apiurl: 'https://pyq.20010501.xyz/',
     initnumber: 20, //【可选】页面初始化展示文章数量
     stepnumber: 10,//【可选】每次加载增加的篇数
-    error_img: '/image/404.gif' //【可选】头像加载失败时默认显示的头像
+    error_img: '/img/fluid.png' //【可选】头像加载失败时默认显示的头像
   }
   //存入本地存储
   localStorage.setItem("fdatalist",JSON.stringify(fdata))
