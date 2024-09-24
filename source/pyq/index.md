@@ -3,24 +3,29 @@ title: 朋友圈
 date: 2022-01-29 15:23:17
 ---
 
+<!-- fontawesome图标的依赖，主题自带的不用加这行 -->
+<link rel="stylesheet" href="https://cdn1.tianli0.top/npm/@fortawesome/fontawesome-free/css/all.min.css">
+
+<!-- 友链朋友圈样式 -->
+<link rel="stylesheet" href="https://cdn1.tianli0.top/gh/Rock-Candy-Tea/hexo-friendcircle-demo@main/css/akilar-SAO.css">
+
 <!-- 挂载友链朋友圈的容器 -->
-<div class="post-content">
-<div id="cf-container">与主机通讯中……</div>
-</div>
-<!-- 加样式和功能代码 -->
-<!-- 将apiurl改成你后端生成的api地址 -->
-<script type="text/javascript">
-  var fdataUser = {
-    apiurl: 'https://pyq.20010501.xyz/'
+<div id="fcircleContainer"></div>
+
+<!-- 全局引入友链朋友圈配置项 -->
+<script>
+  // 全局变量声明区域
+  var fdata = {
+    apiurl: 'https://pyq.20010501.xyz/',
+    initnumber: 20, //【可选】页面初始化展示文章数量
+    stepnumber: 10,//【可选】每次加载增加的篇数
+    error_img: '/image/404.gif' //【可选】头像加载失败时默认显示的头像
   }
-  // 检测是否启用暗黑模式
-  function isDarkMode() {
-    return (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches);
-  }
-  // 根据暗黑模式添加对应类名
-  if (isDarkMode()) {
-    document.body.classList.add('dark-mode');
-  }
+  //存入本地存储
+  localStorage.setItem("fdatalist",JSON.stringify(fdata))
 </script>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lmm214/immmmm/themes/hello-friend/static/fcircle-beta.css">
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/lmm214/immmmm/themes/hello-friend/static/fcircle-beta.js"></script>
+
+<!-- 全局引入抓取方法 -->
+<script defer src="https://cdn1.tianli0.top/gh/Rock-Candy-Tea/hexo-friendcircle-demo@main/js/fetch.js"></script>
+<!-- 局部引入页面元素生成方法 -->
+<script async src="https://cdn1.tianli0.top/gh/Rock-Candy-Tea/hexo-friendcircle-demo@main/js/fcircle.js" charset="utf-8"></script>    <!-- js -->
