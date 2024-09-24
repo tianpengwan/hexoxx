@@ -13,6 +13,14 @@ date: 2022-01-29 15:23:17
   var fdataUser = {
     apiurl: 'https://pyq.20010501.xyz/'
   }
+  // 检测是否启用暗黑模式
+  function isDarkMode() {
+    return (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches);
+  }
+  // 根据暗黑模式添加对应类名
+  if (isDarkMode()) {
+    document.body.classList.add('dark-mode');
+  }
 </script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lmm214/immmmm/themes/hello-friend/static/fcircle-beta.css">
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/lmm214/immmmm/themes/hello-friend/static/fcircle-beta.js"></script>
