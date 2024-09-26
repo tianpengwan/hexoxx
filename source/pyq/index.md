@@ -4,7 +4,7 @@ date: 2022-01-29 15:23:17
 ---
 
 
-<div id="hexo-circle-of-friends-root" style="background-color:black; color:white;"></div>
+<div id="hexo-circle-of-friends-root"></div>
 <script>
     let UserConfig = {
         // 填写你的api地址
@@ -12,7 +12,7 @@ date: 2022-01-29 15:23:17
         // 点击加载更多时，一次最多加载几篇文章，默认10
         page_turning_number: 12,
         // 头像加载失败时，默认头像地址
-        error_img: 'https://www.zywvvd.com/img/avatar.png',
+        error_img: 'https://20010501.xyz/img/fluid.png',
         // 进入页面时第一次的排序规则
         sort_rule: 'created'
     }
