@@ -34,5 +34,24 @@ date: 2022-01-29 15:23:17
     (function() {
         // 初始化函数调用
         initCircleOfFriends(UserConfig);
+        // 监听主题切换
+        document.documentElement.addEventListener('theme-switch', function() {
+            updateTheme();
+        });
+
+        // 更新主题样式
+        function updateTheme() {
+            const theme = document.documentElement.getAttribute('data-theme');
+            const root = document.getElementById('hexo-circle-of-friends-root');
+
+            if (theme === 'dark') {
+                root.classList.add('dark-theme');
+            } else {
+                root.classList.remove('dark-theme');
+            }
+        }
+
+        // 初始加载时更新主题样式
+        updateTheme();
     })();
 </script>
