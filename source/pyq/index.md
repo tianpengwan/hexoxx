@@ -8,7 +8,7 @@ date: 2022-01-29 15:23:17
 <script>
     let UserConfig = {
         // 填写你的api地址
-        private_api_url: 'https:pyq.20010501.xyz/',
+        private_api_url: 'https://pyq.20010501.xyz/',
         // 初始加载几篇文章
         page_init_number: 20,
         // 点击加载更多时，一次最多加载几篇文章，默认10
