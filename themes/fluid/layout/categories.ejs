@@ -17,4 +17,3 @@ var curCats = site.categories.find({ parent: { $exists: false } }).sort(orderBy)
     postOrderBy: theme.category.post_order_by || config.index_generator.order_by
   }
 }) %>
-<%- partial('_widget/category-radar') %>
