@@ -16,7 +16,7 @@ date: 2022-01-29 15:23:17
 
 <script type="text/javascript">
   var fdataUser = {
-   apiurl: 'https://pyq.20010501.xyz/apl/',
+   apiurl: 'https://pyq.20010501.xyz/all/',
   defaultFish: 500,
   hungryFish: 500,
   }
