@@ -10,7 +10,8 @@ date: 2022-01-29 15:23:17
 <!-- 匹配自己的友链或加载后端数据
 <script type="text/javascript">
   var fdataUser = {
-    apiurl: 'https://pyq.20010501.xyz/',  //自部署api
+    jsonurl: 'https://raw.githubusercontent.com/tianpengwan/Scripts-library/main/friends.json',  //【推荐】json 匹配模式
+    //apiurl: 'https://hexo-circle-of-friends-lmm214.vercel.app/',  //自部署api
   }
 </script>
 -->
