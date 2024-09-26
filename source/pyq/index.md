@@ -4,7 +4,7 @@ date: 2022-01-29 15:23:17
 ---
 
 
-<div id="hexo-circle-of-friends-root"></div>
+<div id="hexo-circle-of-friends-root" style="background-color:black; color:white;"></div>
 <script>
     let UserConfig = {
         // 填写你的api地址
