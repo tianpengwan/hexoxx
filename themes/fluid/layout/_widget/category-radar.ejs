@@ -42,29 +42,49 @@
             text: '<%= __("文章分类雷达图")  %>',
             textStyle: {
                 fontWeight: 500,
-                fontSize: 22
+                fontSize: 22,
+                color: '#333' // 主题颜色
             }
         },
-        tooltip: {},
+        tooltip: {
+            trigger: 'item'
+        },
         radar: {
             name: {
                 textStyle: {
-                    color: '#3C4858'
+                    color: '#3C4858' // 主题颜色
                 }
             },
             indicator: <%- indicatorData %>,
             nameGap: 5,
-            center: ['50%','55%'],
-            radius: '66%'
+            center: ['50%', '55%'],
+            radius: '66%',
+            splitLine: {
+                lineStyle: {
+                    color: '#ccc' // 主题颜色
+                }
+            },
+            splitArea: {
+                areaStyle: {
+                    color: ['#f1f1f1', '#fff'] // 主题颜色
+                }
+            }
         },
         series: [{
             type: 'radar',
             color: ['#3ecf8e'],
-            itemStyle: {normal: {areaStyle: {type: 'default'}}},
-            data : [
+            itemStyle: {
+                normal: {
+                    areaStyle: {
+                        type: 'default',
+                        color: ['#3ecf8e'] // 主题颜色
+                    }
+                }
+            },
+             [
                 {
-                    value : <%- radarValueData %>,
-                    name : '<%= __("categoryNumber") %>'
+                    value: <%- radarValueData %>,
+                    name: '<%= __("categoryNumber") %>'
                 }
             ]
         }]
