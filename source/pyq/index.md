@@ -4,9 +4,6 @@ date: 2022-01-29 15:23:17
 ---
 
 
-<!-- 引入 CSS 样式 -->
-<link rel="stylesheet" href="https://uipv4.zywvvd.com:33030/HexoFiles/js/friend-circle/heoMainColor.css">
-
 <!-- 定义容器 -->
 <div id="hexo-circle-of-friends-root"></div>
 
