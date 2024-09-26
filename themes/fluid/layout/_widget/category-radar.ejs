@@ -43,16 +43,21 @@
             textStyle: {
                 fontWeight: 500,
                 fontSize: 22,
-                color: '#333' // 主题颜色
+                color: '#fff' // 白色文本
             }
         },
         tooltip: {
-            trigger: 'item'
+            trigger: 'item',
+            backgroundColor: '#333', // 深色背景
+            borderColor: '#555', // 边框颜色
+            textStyle: {
+                color: '#fff' // 白色文本
+            }
         },
         radar: {
             name: {
                 textStyle: {
-                    color: '#3C4858' // 主题颜色
+                    color: '#fff' // 白色文本
                 }
             },
             indicator: <%- indicatorData %>,
@@ -61,27 +66,32 @@
             radius: '66%',
             splitLine: {
                 lineStyle: {
-                    color: '#ccc' // 主题颜色
+                    color: '#555' // 较深的颜色
                 }
             },
             splitArea: {
                 areaStyle: {
-                    color: ['#f1f1f1', '#fff'] // 主题颜色
+                    color: ['#333', '#222'] // 较深的颜色
+                }
+            },
+            axisLine: {
+                lineStyle: {
+                    color: '#555' // 较深的颜色
                 }
             }
         },
         series: [{
             type: 'radar',
-            color: ['#3ecf8e'],
+            color: ['#3ecf8e'], // 亮绿色
             itemStyle: {
                 normal: {
                     areaStyle: {
                         type: 'default',
-                        color: ['#3ecf8e'] // 主题颜色
+                        color: ['#3ecf8e'] // 亮绿色
                     }
                 }
             },
-             [
+            data: [
                 {
                     value: <%- radarValueData %>,
                     name: '<%= __("categoryNumber") %>'
@@ -90,5 +100,27 @@
         }]
     };
 
+    // 检测主题模式并设置相应的背景颜色
+    function setChartBackgroundColor() {
+        if (document.documentElement.classList.contains('dark-mode')) {
+            radarChart.setOption({
+                backgroundColor: '#111' // 深色背景
+            });
+        } else {
+            radarChart.setOption({
+                backgroundColor: '#fff' // 白色背景
+            });
+        }
+    }
+
+    // 初始化时设置背景颜色
+    setChartBackgroundColor();
+
+    // 监听主题模式变化
+    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function(e) {
+        setChartBackgroundColor();
+    });
+
+    // 初始化图表
     radarChart.setOption(option);
 </script>
