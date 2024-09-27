@@ -9,7 +9,7 @@ banner_img: https://t.alcy.cc/pc/
 🌵站点名称🌺：宇外御风的hexo博客
 🌲站点简介🌸：分享免费有趣的知识
 🌳站点地址🌼：https://20010501.xyz/
-🌴站点Logo🏵️：https://20010501.xyz/img/fluid.png
+🌴站点Logo🏵️：https://20010501.xyz/img/fluid.png/
 🌿我的站点友链接地址🌻：https://20010501.xyz/yll/
 
 <div id="friends-api"></div>
