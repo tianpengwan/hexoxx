@@ -368,6 +368,7 @@ navbar:
         { key: '重庆交院', link: 'https://hexo.fluid-dev.com/' },
         { key: '河南信阳', link: 'https://hexo.fluid-dev.com/docs/guide/' },
         { key: '广西老表', link: 'https://hexo.fluid-dev.com/docs/icon/' }
+        ]
     #- { key: "links", link: "/links/", icon: "iconfont icon-link-fill" }
 
 # 搜索功能，基于 hexo-generator-search 插件，若已安装其他搜索插件请关闭此功能，以避免生成多余的索引文件
