@@ -22,10 +22,10 @@
 # icon: fa         #这个显示相册页面的图标
 # icon2: fa        #这个显示自己的具体相册里面的相册的图标
 
-PhotoVerifyPassword:
-  enable: true
-  promptMessage: 该相册已加密，请输入密码访问
-  errorMessage: 密码错误，将返回主页！
+# PhotoVerifyPassword:
+# enable: true
+# promptMessage: 该相册已加密，请输入密码访问
+# errorMessage: 密码错误，将返回主页！
 
 # 用于浏览器标签的图标
 # Icon for browser tab
