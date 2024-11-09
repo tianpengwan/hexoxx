@@ -17,10 +17,10 @@
 #---------------------------
 
 # 增加了图片页面
-zp: 
-  title: 光影流年   #标题
-  icon: fa         #这个显示相册页面的图标
-  icon2: fa        #这个显示自己的具体相册里面的相册的图标
+# zp: 
+# title: 光影流年   #标题
+# icon: fa         #这个显示相册页面的图标
+# icon2: fa        #这个显示自己的具体相册里面的相册的图标
 
 PhotoVerifyPassword:
   enable: true
