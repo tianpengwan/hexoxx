@@ -1,6 +1,6 @@
 ---
-title: gallery
+title: zp
 date: 2020-10-05 12:00:00
-type: "gallery"
-layout: "gallery"
+type: "zp"
+layout: "zp"
 ---
