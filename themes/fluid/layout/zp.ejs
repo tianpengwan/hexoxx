@@ -1,82 +1,82 @@
-< %-partial(' _ partial/BG-cover ')% >
+<%- partial('_partial/bg-cover') %>
 <!-- 增加相册显示的特效样式 -->
-<风格>
-。照片{
-填充:0 40px！重要；
-显示:内嵌-块；
-位置:相对；
-过渡:全. 6s；
+<style>
+    .photo {
+        padding: 0 40px!important;
+        display: inline-block;
+        position: relative;
+        transition: all .6s;
     }
-。标贴{
-填充:8px 10px
-颜色:# 4c 4c 4e；
-文本对齐:居中；
-字体粗细:400；
-字体大小:18px
+    .biaotiss {
+        padding: 8px 10px;
+        color: #4c4c4e;
+        text-align: center;
+        font-weight: 400;
+        font-size: 18px;
     }
-。img-项目{
-填充:. 2rem
-背景色:# fff
-边框半径:10px
-box-shadow:1px 2px 2px 0 # AAA；
-过渡:所有. 4s三次贝塞尔曲线(. 63，. 15，. 03，1.12)；
-边距-底部:20px
+    .img-item {
+        padding: .2rem;
+        background-color: #fff;
+        border-radius: 10px;
+        box-shadow: 1px 2px 2px 0 #aaa;
+        transition: all .4s cubic-bezier(.63,.15,.03,1.12);
+        margin-bottom: 20px;
     }
-。照片:第n个孩子(奇数){
-变换:rotateZ(-5 deg)；
+    .photo:nth-child(odd) {
+        transform: rotateZ(-5deg);
     }    
-。图:第n个孩子(偶数){
-变换:rotateZ(5度)；
+    .photo:nth-child(even) {
+        transform: rotateZ(5deg);
     }
-。text_des{
-位置:绝对；
-宽度:92%；
-身高:100%；
-top:0；
-颜色:# 000；
-溢出:隐藏；
+    .text_des{
+        position: absolute;
+        width: 92%;
+        height: 100%;
+        top: 0;
+        color: #000;
+        overflow: hidden;
     }
-。text_des h3{
-边距:5px 0 8px 0px
-右:40px
-字体大小:1.5雷姆；
-字体粗细:粗体；
-行高:1.7雷姆；
-位置:绝对；
-top:10%；
-字体样式:斜体；
-text-shadow: 2px 2px 10px rgba(0，0，0，0.3)；
-/* transform:translate x(200 px)；*/
+    .text_des h3{
+        margin: 5px 0 8px 0px;
+        right: 40px;
+        font-size: 1.5rem;
+        font-weight: bold;
+        line-height: 1.7rem;
+        position: absolute;
+        top: 10%;
+        font-style: italic;
+        text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.3);
+        /*transform: translateX(200px);  */
     }
-。text_des p{
-左:15px
-位置:绝对；
-top:50%；
-/* transform:translate x(-200 px)；
-过渡延迟:0.2s*/
+    .text_des p{
+        left: 15px;
+        position: absolute;
+        top: 50%;
+    /*    transform: translateX(-200px); 
+        transition-delay: 0.2s;    */
     }
-。我的画廊。照片图像{
-边框半径:10px
-高度:240px
+    .my-gallery .photo img {
+        border-radius: 10px;
+        height: 240px;
     }
-。卡。卡片内容{
-填充:24px 24px 24px 24px
+    .card .card-content {
+        padding: 24px 24px 24px 24px;
     }
-。苗树{
-填充:20px
-边框:1px虚线# e6e6e6
-颜色:# 969696；
-位置:相对；
-显示:内嵌-块；
-宽度:95%；
-背景:# fbfbfb50
-边框半径:10px
-字体大小:16px
-边距:12px自动；
+    .miaoshus {
+        padding: 20px;
+        border: 1px dashed #e6e6e6;
+        color: #969696;
+        position: relative;
+        display: inline-block;
+        width: 95%;
+        background: #fbfbfb50;
+        border-radius: 10px;
+        font-size: 16px;
+        margin: 12px auto;
     }
-身体。黑。苗树{
-背景:0 0；
-边框:1px虚线# 888；
+    body.dark .miaoshus {
+        background: 0 0;
+        border: 1px dashed #888;
     }
     .img-item {
             transition: all 0.4s ease-out;
