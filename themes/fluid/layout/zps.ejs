@@ -1,83 +1,83 @@
 <!-- 加密功能 -->
-< % if(主题。PhotoVerifyPassword.enable) { % >
-< script src = " < %-theme . libs . js . crypto % > " > </script >
-<脚本>
-(函数(){
-let pwd = ' < %-page . password % > '；
+<% if (theme.PhotoVerifyPassword.enable) { %>
+    <script src="<%- theme.libs.js.crypto %>"></script>
+    <script>
+        (function() {
+            let pwd = '<%- page.password %>';
 
-if (pwd && pwd.length > 0) {
-如果(pwd！== CryptoJS。SHA256(提示(' < %-主题。photoverify password . prompt message % > '))。toString(CryptoJS.enc.Hex)) {
-警报(' < %-主题。photoverifypassword . error message % > ')；
-location . href = ' < %-URL _ for("/")% > '；
+            if (pwd && pwd.length > 0) {
+                if (pwd !== CryptoJS.SHA256(prompt('<%- theme.PhotoVerifyPassword.promptMessage %>')).toString(CryptoJS.enc.Hex)) {
+                    alert('<%- theme.PhotoVerifyPassword.errorMessage %>');
+                    location.href = '<%- url_for("/")  %>';
                 }
             }
         })();
-</script >
+    </script>
 <% } %>
 
-<!-< %-partial(' _ partial/BG-cover ')% >->
+<!-- <%- partial('_partial/bg-cover') %> -->
 
-< link rel = " style sheet " href = " < %-theme . libs . CSS . baguetteboxcss % > " >
-<!-该主题自带的lightGallery.js在图片多的时候会很卡,所以弃用,使用了一个我在网上找的长方形盒子，很轻量级,就是功能少了点 - >
-< script src = " < %-theme . libs . js . baguetteboxjs % > " > </script >
-<风格>
-。我的画廊。照片图像{
-过渡:全0.6s缓入缓出；
+<link rel="stylesheet" href="<%- theme.libs.css.baguetteBoxCss %>">
+<!-- 该主题自带的lightGallery.js在图片多的时候会很卡，所以弃用，使用了一个我在网上找的baguetteBox，很轻量级，就是功能少了点 -->
+<script src="<%- theme.libs.js.baguetteBoxJs %>"></script> 
+<style>    
+    .my-gallery .photo img {
+        transition: all 0.6s ease-in-out; 
     }     
-。我的画廊。照片:悬停图像{
-不透明度:0.6；
-变换:缩放(1.05)；
+    .my-gallery .photo:hover img {
+        opacity: 0.6;
+        transform: scale(1.05);
     }      
-。我的图库{
-边距:20px自动；
+    .my-gallery {
+        margin: 20px auto;
     }   
-。妙树。标题{
-font-family: MV博立；
+    .miaoshus .title {
+        font-family: MV Boli;
     }
-。苗树{
-填充:20px
-边框:1px虚线# e6e6e6
-颜色:# 969696；
-位置:相对；
-显示:内嵌-块；
-宽度:75%；
-背景:# fbfbfb50
-边框半径:10px
-字体大小:16px
-边距:24px自动12px
+    .miaoshus {
+        padding: 20px;
+        border: 1px dashed #e6e6e6;
+        color: #969696;
+        position: relative;
+        display: inline-block;
+        width: 75%;
+        background: #fbfbfb50;
+        border-radius: 10px;
+        font-size: 16px;
+        margin: 24px auto 12px;
         
     }
-身体。黑。苗树{
-背景:0 0；
-边框:1px虚线# 888；
+    body.dark .miaoshus {
+        background: 0 0;
+        border: 1px dashed #888;
     }
-正文{
-溢出:可见！重要；
+    body {
+        overflow: visible!important;
     }
-。方框{
-位置:相对；
+    .box {
+            position: relative;
         }
-。框图像{
-宽度:350px
-垂直对齐:顶部；
-填充:8px
-边框半径:10px
-过渡:全0.5s
+    .box img {
+        width: 350px;
+        vertical-align: top;
+        padding: 8px;
+        border-radius: 10px;
+        transition: all 0.5s;
     }
-。框图像:悬停{
-变换:缩放(1.05)；
+    .box img:hover {
+        transform: scale(1.05);
     }
-。页脚{
-显示:无
+    .page-footer {
+        display: none
     }
-正文{
-溢出-y:可见！重要；
+    body {
+        overflow-y: visible!important;
     }
-标题{
-背景色:# 000；
+    header {
+        background-color: #000;
     }
-。标贴{
-font-family: MV博立；
+    .biaotiss {
+            font-family: MV Boli;
         }   
     @media only screen and (max-width: 1058px) {
         .box {
