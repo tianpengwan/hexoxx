@@ -11,4 +11,4 @@ type: photos
 <!-- CSS Code End -->
 
 
-<div class="js/MyGrid"></div>
+<div class="MyGrid"></div>
