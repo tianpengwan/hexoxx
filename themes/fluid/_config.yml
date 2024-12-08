@@ -381,7 +381,7 @@ navbar:
         { key: '广西老表', link: 'https://hexo.fluid-dev.com/docs/icon/' }
         ]
     }
-    - { key: '小工具',icon: 'iconfont icon-books',
+    - { key: '小工具',icon: 'iconfont icon-docker',
     submenu: [
         { key: '记事本', link: 'https://20010501.xyz/记事本/' },
         { key: '河南信阳', link: 'https://20010501.xyz/河南信阳/' },
