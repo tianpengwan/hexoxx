@@ -381,6 +381,13 @@ navbar:
         { key: '广西老表', link: 'https://hexo.fluid-dev.com/docs/icon/' }
         ]
     }
+    - { key: '小工具',icon: 'iconfont icon-books',
+    submenu: [
+        { key: '记事本', link: 'https://20010501.xyz/记事本/' },
+        { key: '河南信阳', link: 'https://20010501.xyz/河南信阳/' },
+        { key: '广西老表', link: 'https://hexo.fluid-dev.com/docs/icon/' }
+        ]
+    }
     #- { key: "links", link: "/links/", icon: "iconfont icon-link-fill" }
 
 # 搜索功能，基于 hexo-generator-search 插件，若已安装其他搜索插件请关闭此功能，以避免生成多余的索引文件
