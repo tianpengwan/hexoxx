@@ -4,11 +4,7 @@ date: 2024-12-08 15:23:17
 ---
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>欢迎使用宇外御风的工作记事本</title>
+
     <script src="https://cdn.bootcss.com/vue/2.6.10/vue.min.js"></script>
     <style>
         body{
@@ -255,5 +251,3 @@ function hashFn(){
 hashFn();
 window.addEventListener('hashchange',hashFn);
 </script>
-</body>
-</html>
