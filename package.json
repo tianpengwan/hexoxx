@@ -27,6 +27,7 @@
     "hexo-server": "^3.0.0",
     "hexo-theme-fluid": "^1.9.7",
     "hexo-theme-landscape": "^1.0.0",
+    "image-size": "^1.1.1",
     "live2d-widget-model-koharu": "^1.0.5",
     "packagename": "^2.0.1"
   }
