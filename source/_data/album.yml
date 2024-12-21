@@ -1,17 +1,51 @@
-- class_name: 世界各地夕阳与风景
-  path_name: /wordScenery
+- class_name: 在各地旅游工作的照片
+  path_name: /lyzp
   type: 2
-  description: 因为到不了世界各地，所以请网友们发来了各地的夕阳与风景🌇。
-  cover: https://bu.dusays.com/2023/04/09/64329399d1175.jpg
-  top_background: https://bu.dusays.com/2023/06/30/649e546ada7dd.webp
+  description: 世界那么大，说好要用一生去探寻，恍然发现宝藏就是你，环游世界来找你。
+  cover: https://ghtpdl.20010501.xyz/tptp/mmexport1724410333934.jpg
+  top_background: https://ghtpdl.20010501.xyz/tptp/mmexport1724410333934.jpg
   rowHeight: 220
   limit: 10
   lazyload: true
   btnLazyload: false
   url: false
-  top_link: /album
+  top_link: /imgs
   top_btn_text: 返回
   album_list:
+    - date: 2024/12/15 01:00:00
+      content: 橘子🍊不错
+      address: 广西桂林
+      from: xiebro干饭饭
+      image:
+        - https://ghtpdl.20010501.xyz/tptp/mmexport1734319331781.jpg
+        - https://ghtpdl.20010501.xyz/tptp/P20241217-101052.jpg
+        - https://ghtpdl.20010501.xyz/tptp/P20241203-145115.jpg
+        - https://ghtpdl.20010501.xyz/tptp/P20241209-181801.jpg
+        - https://ghtpdl.20010501.xyz/tptp/P20241211-175825.jpg
+        - https://ghtpdl.20010501.xyz/tptp/P20241214-154901.jpg
+        - https://ghtpdl.20010501.xyz/tptp/P20241214-154907.jpg
+        - https://ghtpdl.20010501.xyz/tptp/P20241215-144228.jpg
+    - date: 2024/12/14 01:00:00
+      content: 钓到好多好多鱼🐟
+      address: 河南信阳
+      from: 再吃一口就减肥
+      image:
+        - https://ghtpdl.20010501.xyz/tptp/P20240820-120225.jpg
+        - https://ghtpdl.20010501.xyz/tptp/P40819-225300.jpg
+        - https://cdn.jsdelivr.net/gh/tianpengwan/hexoxxtc/tptp/P20240816-190019.jpg
+        - https://cdn.jsdelivr.net/gh/tianpengwan/hexoxxtc/tptp/P20240816-190032(1).jpg
+        - https://cdn.jsdelivr.net/gh/tianpengwan/hexoxxtc/tptp/P20240727-135244.jpg
+        - https://raw.githubusercontent.com/tianpengwan/hexoxxtc/main/xiebro/P20240629-184408.jpg
+        - https://raw.githubusercontent.com/tianpengwan/hexoxxtc/main/xiebro/P20240629-184409.jpg
+        - https://ghtpdl.20010501.xyz/tptp/mmexport1724808565767.jpg
+        - https://ghtpdl.20010501.xyz/tptp/Image_1724808930761.jpg
+        - https://ghtpdl.20010501.xyz/tptp/P20240826-203939.jpg
+        - https://ghtpdl.20010501.xyz/tptp/P20240825-192749.jpg
+        - https://ghtpdl.20010501.xyz/tptp/P20240824-111033.jpg
+        - https://ghtpdl.20010501.xyz/tptp/mmexport1724410333934.jpg
+        - https://ghtpdl.20010501.xyz/tptp/P20240831-185301.jpg
+        - https://ghtpdl.20010501.xyz/tptp/P20240830-205213.jpg
+        - https://ghtpdl.20010501.xyz/tptp/P20240830-200148.jpg
     - date: 2022/10/26 01:00:00
       content: 湘潭的一角。
       address: 湖南湘潭
@@ -25,17 +59,49 @@
       image:
         - https://bu.dusays.com/2023/04/09/64329399db122.webp
         - https://bu.dusays.com/2023/04/09/64329399db2e1.webp
-
-- class_name: 我的日常
-  path_name: /dailyPhoto
-  type: 1
-  description: 这里存放的是有关我自己的一些沙雕生活与有趣的事情。
-  top_link: /album
-  top_btn_text: 返回
-  top_background: https://bu.dusays.com/2023/04/09/64329399cea5a.webp
-  cover: https://bu.dusays.com/2023/04/09/64329399cea5a.webp
-  album_list:
-    - date: 2022-10-24
-      content: 老妹的画
+    - date: 2024-10-25
+      content: 在学校🏫
+      address: 重庆江津
+      from: xiebro
       image:
-        - https://bu.dusays.com/2023/04/09/643293997b92b.jpeg
+        - https://ghtpdl.20010501.xyz/tptp/P20240912-120946.jpg
+        - https://ghtpdl.20010501.xyz/tptp/P20240908-154934.jpg
+        - https://ghtpdl.20010501.xyz/tptp/P20240906-181942.jpg
+        - https://ghtpdl.20010501.xyz/tptp/P20241010-112700.jpg
+        - https://ghtpdl.20010501.xyz/tptp/P20240927-182824.jpg
+        - https://ghtpdl.20010501.xyz/tptp/P20240920-180430.jpg
+        - https://ghtpdl.20010501.xyz/tptp/P40918-091852.jpg
+        - https://ghtpdl.20010501.xyz/tptp/wx_camera_1730804256869.jpg
+        - https://ghtpdl.20010501.xyz/tptp/wx_camera_1730613069536.jpg
+        - https://ghtpdl.20010501.xyz/tptp/wx_camera_1730613667379.jpg
+        - https://ghtpdl.20010501.xyz/tptp/P20241103-160303.jpg
+        - https://ghtpdl.20010501.xyz/tptp/P20241103-180130.jpg
+        - https://ghtpdl.20010501.xyz/tptp/P20241103-180143.jpg
+- class_name: 我的日常
+  path_name: /xiebrozp
+  type: 2
+  description: 这里存放的是有关我自己的一些沙雕生活与有趣的事情。
+  rowHeight: 220
+  limit: 10
+  lazyload: true
+  btnLazyload: false
+  url: false
+  top_link: /imgs
+  top_btn_text: 返回
+  top_background: https://ghtpdl.20010501.xyz/tptp/mmexport1708704524005.png
+  cover: https://ghtpdl.20010501.xyz/tptp/mmexport1708704524005.png
+  album_list:
+    - date: 2024-10-24
+      content: 这里是我的帅照啦
+      image:
+        - https://ghtpdl.20010501.xyz/tptp/P20241219-223809.jpg
+        - https://ghtpdl.20010501.xyz/tptp/P20241219-223052.jpg
+        - https://ghtpdl.20010501.xyz/tptp/P20241217-091029.jpg
+        - https://ghtpdl.20010501.xyz/tptp/mmexport1708704524005.png
+        - https://ghtpdl.20010501.xyz/tptp/mmexport1708612873270.png
+        - https://ghtpdl.20010501.xyz/tptp/mmexport1708612879157.png
+        - https://ghtpdl.20010501.xyz/tptp/mmexport1708704535240.png
+        - https://ghtpdl.20010501.xyz/tptp/mmexport1708704527158.png
+        - https://ghtpdl.20010501.xyz/tptp/mmexport1708704530687.png
+        - https://ghtpdl.20010501.xyz/tptp/mmexport1708704543919.png
+        - https://ghtpdl.20010501.xyz/tptp/mmexport1708704539928.png
